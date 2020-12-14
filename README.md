@@ -9,7 +9,7 @@
     +Xem các báo cáo doanh thu theo thời gian<br />
     +Xem các báo cáo doanh thu theo phòng<br />
     +Xem các báo cáo doanh thu theo loại phòng<br />
-    +Xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng<br />
+    +Xem báo cáo tỉ lệ phòng trống theo thời gian<br />
     +Xem báo cáo tỉ lệ phòng trống theo theo phòng<br />
     +Xem báo cáo tỉ lệ phòng trống theo theo loại phòng<br />
     +Xem báo cáo khách hàng đặt nhiều theo thời gian<br />
